@@ -37,7 +37,7 @@ This repository contains data analysis projects from commercial dairy farm (1500
 ---
 
 ## Farm Details
-- Farm: Tawakul Dairy Farm, Bahawalnagar, Punjab
+- Farm: Tawakul Dairy Farm, Lahore, Punjab
 - Herd Size: 1500+ head (Buffalo and Cows)
 - Work: Herd health, mastitis/metritis treatment, reproduction, TMR management, records in DairyComp / Excel
 
